@@ -1,2 +1,2 @@
 # Backbone.js ToDoList
-This is a simpl ToDoList app to demonstrate the use of Backbone.js.
+This is a simple ToDoList app to demonstrate the use of Backbone.js.
